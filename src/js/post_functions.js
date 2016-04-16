@@ -1,0 +1,2 @@
+//timerEndAlert(ts);
+//$('#splashscreen').remove();
